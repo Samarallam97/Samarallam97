@@ -6,7 +6,7 @@
 <h2 align="left">Interests:</h2>
 
 
--   Web development
+-   Web development [.net]
 -   Cloud
 -   Security
 -   Embeded Systems
