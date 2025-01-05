@@ -2,15 +2,15 @@
 
 <p><em>Software Enginnering Student at <a href="https://www.linkedin.com/school/tanta-university/posts/?feedView=all">Tanta University</a>
 </em></p>
+<br>
 
 <h2 align="left">Interests:</h2>
 
 
--   Web development
--   Cloud
--   Security
--   Embeded Systems
--   AI
+-   Web development [ Angular , ASP.NET , Blazor ]
+
+<br>
+
 <h2 align="left">Technologies I use:</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
